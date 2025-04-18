@@ -1,5 +1,5 @@
 # ClearDues
-# 💸 ClearDues – Smart No-Dues Management System
+# 💸 ClearDues – A Simple Due Clearance App.
 
 ![ClearDues Banner](https://img.shields.io/badge/Java-Swing-blue?style=flat-square)
 ![JavaMail](https://img.shields.io/badge/JavaMail-API-green?style=flat-square)
